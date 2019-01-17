@@ -1,0 +1,20 @@
+{
+	release: {
+      version: "0.3.0.2",
+		date: "05.01.2019",
+		type: "release",
+		code: 0
+   },
+	testing: {
+		version: "0.3.0.2",
+		date: "05.01.2019",
+		type: "beta",
+		code: 0
+	},
+	develop: {
+		version: "0.3.0.2",
+		date: "05.01.2019",
+		type: "release",
+		code: 0
+	}
+}
