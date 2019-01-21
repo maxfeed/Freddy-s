@@ -5,7 +5,7 @@
 		type: "release",
 		code: 0
 	},
-	testing: {
+	beta: {
 		version: "0.3.0.2",
 		date: "05.01.2019",
 		type: "beta",
