@@ -1,14 +1,6 @@
 {
-	release: {
-		version: "0.3.0.2",
-		date: "05.01.2019",
-		type: "release",
-		code: 0
-	},
-	beta: {
-		version: "0.3.0.2",
-		date: "05.01.2019",
-		type: "beta",
-		code: 0
-	}
+	version: "0.3.0.2",
+	date: "05.01.2019",
+	type: "release",
+	code: 0
 }
